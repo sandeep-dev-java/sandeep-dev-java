@@ -4,7 +4,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Java+Backend+Developer;Spring+Boot+Enthusiast;Building+Scalable+APIs;Learning+Microservices&center=true&width=500&height=50">
 </p>
-
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sandeep-dev-java&show_icons=true&theme=radical" /> </p>
 
 ## 💡 About Me
 
