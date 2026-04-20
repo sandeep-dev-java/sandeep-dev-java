@@ -1,3 +1,11 @@
+<h1 align="center">Hi 👋, I'm Sandeep Panda</h1>
+<h3 align="center">Java Backend Developer | Spring Boot | Microservices | AWS</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Java+Backend+Developer;Spring+Boot+Enthusiast;Building+Scalable+APIs;Learning+Microservices&center=true&width=500&height=50">
+</p>
+
+
 # 👋 Hi, I'm Sandeep Panda
 
 🚀 Java Backend Developer passionate about building scalable, secure, and production-ready systems.
