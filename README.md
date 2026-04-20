@@ -6,12 +6,6 @@
 </p>
 
 
-# 👋 Hi, I'm Sandeep Panda
-
-🚀 Java Backend Developer passionate about building scalable, secure, and production-ready systems.
-
----
-
 ## 💡 About Me
 
 * 🎓 B.Tech CSE (2025 Graduate)
