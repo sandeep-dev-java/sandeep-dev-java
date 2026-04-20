@@ -4,9 +4,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Java+Backend+Developer;Spring+Boot+Enthusiast;Building+Scalable+APIs;Learning+Microservices&center=true&width=500&height=50">
 </p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=sandeep-dev-java&theme=radical" />
-</p>
 
 ## 💡 About Me
 
