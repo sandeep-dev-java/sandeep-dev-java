@@ -72,6 +72,7 @@ MySQL, PostgreSQL, JPQL, Native Queries
 
 * 📧 [sandeeppanda710@gmail.com](mailto:sandeeppanda710@gmail.com)
 * 💼 https://linkedin.com/in/sandeep-panda-java-
+* ☎️91-7847900952
 
 ---
 
